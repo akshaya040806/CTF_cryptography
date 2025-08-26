@@ -22,7 +22,13 @@ Features
 Usage
 
 Hash - crack the cheese name.
+
+Use: https://www.dcode.fr/sha256-hash
+
 Cheese name - encode it using Playfair encryption.
+
+Use: https://encryptdecrypt.tools/tools/ciphers/playfair.php
+
 Player must supply the correct ciphertext.
 Asks for L/R sequence (based on odd/even alphabet positions).
 If right - flag is revealed.
